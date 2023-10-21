@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeki Yıldıray Çetin</h1>
 <h3 align="center">Business Analyst from Turkey</h3>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **.NetFramework & C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zekiyildiraycetin](https://github.com/zekiyildiraycetin)
 
